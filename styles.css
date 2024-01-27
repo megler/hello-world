@@ -1,0 +1,23 @@
+body {
+  background-color: #fdffcd;
+  font-family: Arial, sans-serif;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.container {
+  height: 100vh;
+  max-width: 940px;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+img {
+  margin-top: 10px;
+}
+
+.questions {
+  margin: 10px 0;
+}
